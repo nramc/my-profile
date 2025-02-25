@@ -1,2 +1,93 @@
 site_name: Ramachandran Nellaiyappan
+site_url: https://nramc.github.io/my-profile/
 
+# Repository
+repo_name: nramc/my-profile
+repo_url: https://github.com/nramc/my-profile
+
+# Copyright
+copyright: Made with ❤️ by Ramachandran Nellaiyappan
+
+
+theme:
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.footer
+    - header
+    - search.suggest
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - toc.integrate
+
+
+
+plugins:
+  - search
+  - offline
+  - meta
+  - tags:
+      listings_sort_by: !!python/name:material.plugins.tags.item_title
+      listings_tags_sort_by: !!python/name:material.plugins.tags.tag_name_casefold
+  - pagetree
+
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nramc
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/codewithram
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ram_n_74
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ramachandran-nellaiyappan/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:ramachandrannellai@gmail.com
+
+nav:
+  - 'Welcome': 'index.md'

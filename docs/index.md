@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+---
+hide:
+  - header
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome.!
 
-## Commands
+The Ultimate Playbook for coding snippets, references, procedures and How-To articles based on real time experience.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
