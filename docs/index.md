@@ -59,16 +59,19 @@ developers, and tech talks.
 
 ## Technical Interests
 
-- Developer productivity, CICD and Automation
-- Security & Best Practices in Java
-- Serverless Architectures
-- Machine Learning & AI in Java
+🚀 Developer productivity, CICD and Automation
+
+🛡️ Security & Best Practices in Java
+
+🖥️ Serverless Architectures
+
+🧠 Machine Learning & AI in Java
 
 ## Let's Connect
 
-💻 [GitHub](https://github.com/nramc) |
-🔗 [LinkedIn](https://www.linkedin.com/in/ramachandran-nellaiyappan/) |
-[X(Twitter)](https://github.com/nramc) |
-📧 [Email Me](mailto:ramachadrannellai@gmail.com)
+:fontawesome-brands-github: [GitHub](https://github.com/nramc)  |
+:fontawesome-brands-linkedin: [LinkedIn](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
+:fontawesome-brands-square-x-twitter: [X(Twitter)](https://github.com/nramc)  |
+:fontawesome-solid-envelope-circle-check: [Email Me](mailto:ramachadrannellai@gmail.com)
 
 Explore my work and connect with me!
