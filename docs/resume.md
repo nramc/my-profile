@@ -18,6 +18,13 @@
 - Automated database deployment using **Flyway**.
 - Received **Service & Commitment Awards** for major database migrations.
 
+## Tech Stack
+Backend: Java, Spring Boot, Hibernate, Kafka
+Frontend: Angular, HTML5, CSS3, JavaScript
+Databases: Oracle, MySQL, MongoDB
+Cloud: AWS, Docker, Kubernetes
+DevOps: Jenkins, GitLab CI, Terraform
+
 
 A downloadable PDF link to your CV.
 Key highlights from your resume.

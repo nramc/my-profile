@@ -25,3 +25,7 @@ I am a **seasoned Java developer** with a strong background in **enterprise appl
 - Effective Communication
 - Problem Solving & Decision Making
 - Productivity & Planning
+
+## Certifications & Achievements
+
+## Technical Interests
