@@ -6,7 +6,9 @@
 
 Welcome!
 
-I'm **Ram**, a Senior Java Developer.
+> Always aim to be the best in what you do
+
+I'm **Ram**, a passionate **Senior Java Developer**.
 
 With **12+ years** of experience in building scalable
 web applications using **Java, Spring, Angular, and database like Postgres, MongoDB and Oracle**.
