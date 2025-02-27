@@ -69,9 +69,9 @@ developers, and tech talks.
 
 ## Let's Connect
 
-:fontawesome-brands-github: [GitHub](https://github.com/nramc)  |
-:fontawesome-brands-linkedin: [LinkedIn](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
-:fontawesome-brands-square-x-twitter: [X(Twitter)](https://github.com/nramc)  |
-:fontawesome-solid-envelope-circle-check: [Email Me](mailto:ramachadrannellai@gmail.com)
+:fontawesome-brands-github: [nramc](https://github.com/nramc)  |
+:fontawesome-brands-linkedin: [Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
+:fontawesome-brands-square-x-twitter: [ram_n_74](https://github.com/nramc)  |
+:fontawesome-solid-envelope-circle-check: [ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)
 
 Explore my work and connect with me!
