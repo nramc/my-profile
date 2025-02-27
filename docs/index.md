@@ -11,67 +11,16 @@ I'm **Ram**, a Senior Java Developer.
 With **12+ years** of experience in building scalable
 web applications using **Java, Spring, Angular, and database like Postgres, MongoDB and Oracle**.
 Passionate about **automation, code quality, and software architecture**, I strive to improve development processes &
-application security and mentor teams.
+application security.
 
-## What I Do
+Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
 
-✅ **Backend Development** - Developing scalable, secure, and high-performance REST APIs using Java, Spring Boot,
-Hibernate,
-and Microservices.
+<br />
 
-✅ **Application Architecture & Design** - Designing robust, scalable architectures to solve real-time business problems
-with
-best practices, design patterns, and domain-driven design (DDD).
-
-✅ **Threat Modeling & Security** - Conducting threat modeling and penetration testing to identify vulnerabilities and
-enhance application security.
-
-✅ **Automation** - Implementing CI/CD pipelines and Integrating tools to improve developer productivity & code quality
-like
-OpenRewrite, Renovate, ensuring efficient and maintainable codebases.
-
-✅ **Frontend Development** - Building dynamic, responsive UI applications with Angular, integrating seamlessly with
-backend
-systems.
-
-✅ **Continuous Learning & Innovation** - Staying up to date with emerging technologies, experimenting with new
-frameworks,
-and adopting industry best practices to deliver cutting-edge solutions.
-
-## Highlights
-
-**🏆 Oracle Certified Database Associate (OCA)** - Strong expertise in SQL, database design, and performance tuning.
-
-**📚 Continuous Learner & Tech Enthusiast** - Exploring new technologies, frameworks, and methodologies to stay ahead
-in the evolving tech landscape.
-
-**🔍 Problem Solver & Critical Thinker** - Skilled at analyzing complex challenges, architecting efficient solutions, and
-optimizing system performance.
-
-**💡 Open Source Contributor & Enthusiast** - Passionate about contributing to open-source projects, improving developer
-tooling, and adopting modern best practices.
-
-**🎯 Passionate About Software Quality & Automation** - Strong advocate of code quality, CI/CD pipelines, DevSecOps, and
-automated testing to enhance development efficiency.
-
-**🤝 Mentor & Community Contributor** - Actively involved in knowledge sharing, technical blogs, mentoring junior
-developers, and tech talks.
-
-## Technical Interests
-
-🚀 Developer productivity, CICD and Automation
-
-🛡️ Security & Best Practices in Java
-
-🖥️ Serverless Architectures
-
-🧠 Machine Learning & AI in Java
-
-## Let's Connect
+🚀 Let’s build something amazing together! Explore my work and connect with me!
 
 :fontawesome-brands-github: [nramc](https://github.com/nramc)  |
 :fontawesome-brands-linkedin: [Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
 :fontawesome-brands-square-x-twitter: [ram_n_74](https://github.com/nramc)  |
 :fontawesome-solid-envelope-circle-check: [ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)
 
-🚀 Let’s build something amazing together! Explore my work and connect with me!
