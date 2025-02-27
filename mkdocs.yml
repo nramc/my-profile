@@ -39,7 +39,7 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.top
-    #    - navigation.footer
+    - navigation.footer
     - header
     - search.suggest
     - search.share
