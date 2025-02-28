@@ -4,8 +4,10 @@ site_url: https://nramc.github.io/my-profile/
 # Repository
 repo_name: nramc/my-profile
 repo_url: https://github.com/nramc/my-profile
-site_description: Ramachandran Nellaiyappan Profile
+site_description: Portfolio of Ramachandran Nellaiyappan, Senior Java Developer specializing in Java, Spring Boot, Angular, and automation.
 site_author: Ramachandran Nellaiyappan
+site_keyword: Ramachandran Nellaiyappan, Java, Spring Boot, Angular, CI/CD, Software Development, Portfolio
+
 # Copyright
 copyright: Made with ❤️ by Ramachandran Nellaiyappan
 
