@@ -15,7 +15,7 @@ This portfolio is built using **MkDocs** and hosted on **GitHub Pages**.
 - **GitHub Actions** – Automating deployment.
 - **Custom Styling** – Enhanced UI with **icons, custom cards, and typography**.
 
-## Getting Started
+## 🛠️ Getting Started
 
 Please find below steps to set up and run application in your workstation.
 
@@ -50,7 +50,7 @@ request. You can also simply open an issue with the tag "enhancement".
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-## Contact
+## 📞 Contact
 
 [Ramachandran Nellaiyappan](https://nramc.github.io/my-profile/contact.html)
 
