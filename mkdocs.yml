@@ -74,6 +74,10 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
   generator: true
@@ -89,5 +93,12 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:ramachandrannellai@gmail.com
 
+extra_css:
+  - assets/stylesheets/custom.css
+
 nav:
-  - 'Welcome': 'index.md'
+  - 'Introduction': 'index.md'
+  - 'About Me': 'about-me.md'
+  - 'Projects': 'projects.md'
+  - 'Resume': 'resume.md'
+  - 'Contact': 'contact.md'
