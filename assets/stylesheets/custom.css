@@ -1,0 +1,16 @@
+.md-footer {
+    background-color: var(--md-default-bg-color);
+    color: var(--md-typeset-a-color);
+}
+
+.md-footer-meta {
+    background-color: var(--md-footer-bg-color);
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
