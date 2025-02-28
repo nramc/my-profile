@@ -34,5 +34,5 @@ Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
     <p>Loading...</p>
 </div>  
 
-<script src="assets/js/thirukkural.js"></script>
+<script src="assets/javascripts/thirukkural.js"></script>
 
