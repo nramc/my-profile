@@ -93,6 +93,9 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:ramachandrannellai@gmail.com
 
+extra_css:
+  - assets/stylesheets/custom.css
+
 nav:
   - 'Introduction': 'index.md'
   - 'About Me': 'about-me.md'
