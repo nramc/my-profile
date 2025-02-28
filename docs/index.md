@@ -26,3 +26,13 @@ Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
 :fontawesome-brands-square-x-twitter: [ram_n_74](https://github.com/nramc)  |
 :fontawesome-solid-envelope-circle-check: [ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)
 
+
+
+## Thirukkural of the Day 🌿
+
+<div id="thirukkural-container">
+    <p>Loading...</p>
+</div>  
+
+<script src="assets/js/thirukkural.js"></script>
+
