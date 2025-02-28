@@ -15,12 +15,16 @@
 
 [My Notes](https://github.com/) | [Website](https://)
 
+<img src="assets/projects/my-notes/my-notes-logo.png" class="float-left" width="100" height="100" alt="My Notes">
+
 - The Ultimate Playbook for developers with coding snippets, references and How-To guides crafted with real time
   experience
 - A Personal Knowledge Management (PKM) system
 - Developed using **MkDocs**
 
 [Thirukkural API](https://github.com/nramc/thirukkural-api) | [Website](https://tamil-kural-api.vercel.app/)
+
+<img src="assets/projects/thirukkural/thirukkural-logo.webp" class="float-left" width="100" height="100" alt="Thurukkural">
 
 - Connecting ancient Tamil philosophy with today’s digital landscape
 - A collection of 1330 couplets (Kural), offering wisdom on life, ethics, love, and governance
