@@ -1,6 +1,19 @@
-# My Profile
+# 🚀 Personal Portfolio - Ramachandran Nellaiyappan
 
 [![Website](https://img.shields.io/badge/website-online-brightgreen.svg)](https://nramc.github.io/my-profile/)
+
+Welcome to my **personal portfolio website**! This site showcases my **experience, skills, projects, and technical
+interests** using **MkDocs** and is hosted on **GitHub Pages**.
+
+## 🏗️ **Tech Stack**
+
+This portfolio is built using **MkDocs** and hosted on **GitHub Pages**.
+
+- **MkDocs** – Static site generator for project documentation.
+- **Material for MkDocs** – Professional and customizable theme.
+- **Markdown** – Lightweight and easy-to-maintain content.
+- **GitHub Actions** – Automating deployment.
+- **Custom Styling** – Enhanced UI with **icons, custom cards, and typography**.
 
 ## Getting Started
 
