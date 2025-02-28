@@ -4,7 +4,8 @@ site_url: https://nramc.github.io/my-profile/
 # Repository
 repo_name: nramc/my-profile
 repo_url: https://github.com/nramc/my-profile
-
+site_description: Ramachandran Nellaiyappan Profile
+site_author: Ramachandran Nellaiyappan
 # Copyright
 copyright: Made with ❤️ by Ramachandran Nellaiyappan
 
@@ -60,6 +61,7 @@ plugins:
 
 
 markdown_extensions:
+  - smarty
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
