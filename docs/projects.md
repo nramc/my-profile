@@ -2,6 +2,8 @@
 
 [Journeys](https://github.com/nramc/journeys) | [Journey API](https://github.com/nramc/journey-api) | [Website](https://nramc.github.io/journeys/)
 
+<img src="assets/projects/journeys/journey-logo-512x512.png" class="float-left" width="100" height="100" alt="Journey">
+
 - Store and visualize travel memories with **narration, geo data, images, & videos**
 - Built using **Spring Boot & Angular** with **MongoDB Atlas**
 - Integrates **OpenStreetMap and MapTiler** for geospatial visualization
@@ -13,7 +15,9 @@
 
 [My Notes](https://github.com/) | [Website](https://)
 
-- A Personal Knowledge Management (PKM) system for organizing notes and code snippets
+- The Ultimate Playbook for developers with coding snippets, references and How-To guides crafted with real time
+  experience
+- A Personal Knowledge Management (PKM) system
 - Developed using **MkDocs**
 
 [Thirukkural API](https://github.com/nramc/thirukkural-api) | [Website](https://tamil-kural-api.vercel.app/)
