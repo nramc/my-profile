@@ -1,4 +1,5 @@
 # 📄 Resume
+
 [📄 Download as PDF](assets/documents/resume/Ramachandran%20Nellaiyappan.pdf){ .md-button .float-right }
 
 <div>
@@ -44,7 +45,8 @@ January 2021 – Present (4+ Years)
 ## 💻 Technical Skills
 
 - **Backend Languages & Frameworks**: Java, Spring Frameworks, SpringBoot, Hibernate, Kafka
-- **Frontend Languages & Frameworks**: Apache Wicket(Java Server Side Rendering), Typescript, Angular
+- **Frontend Languages & Frameworks**: Apache Wicket(Java Server Side Rendering), Typescript, Angular, SAAS, Tailwind
+  CSS
 - **Databases**: Postgres, Oracle, MongoDB, SQL & PL/SQL
 - **DevOps & Cloud**: Docker, Kubernetes, CI/CD, Git & GitLab, GitHub
 - **Methodologies**:
@@ -65,6 +67,19 @@ January 2021 – Present (4+ Years)
 - Problem-Solving & Decision-Making
 - Productivity
 - Planning & Prioritization
+
+## 🛠️ Tools
+
+- **Agile**: JIRA, Confluence, MIRO
+- **Project Design**: Figma, PlantUML
+- **Development**: IntelliJ IDEA, SonarQube, JFrog, Docker, Git, TestContainers
+- **CICD**: GitHub Actions, Jenkins, GitLab
+- **Deployment**:
+    - Kubernetes
+    - Vercel (Serverless Functions)
+    - GitHub Pages (for static sites)
+    - Render.io (Docker containerized services)
+- **Monitoring**: Kibana, Grafana, Prometheus
 
 ## 🎓 Education
 
