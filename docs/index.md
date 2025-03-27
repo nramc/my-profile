@@ -8,7 +8,7 @@ Welcome!
 
 > Always aim to be the best in what you do
 
-I'm **Ram**, a passionate **Senior Java Developer**.
+I'm **Ram**, a passionate **Java Developer**.
 
 With **12+ years** of experience in building scalable
 web applications using **Java, Spring, Angular, and database like Postgres, MongoDB and Oracle**.
@@ -23,7 +23,7 @@ Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
 
 :fontawesome-brands-github: [nramc](https://github.com/nramc)  |
 :fontawesome-brands-linkedin: [Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
-:fontawesome-brands-square-x-twitter: [ram_n_74](https://github.com/nramc)  |
+:fontawesome-brands-square-x-twitter: [ImRamachandranN](https://github.com/nramc)  |
 :fontawesome-solid-envelope-circle-check: [ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)
 
 
