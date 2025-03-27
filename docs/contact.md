@@ -10,7 +10,7 @@ any of the following channels:
 [github.com/nramc](https://github.com/nramc)
 
 :fontawesome-brands-x-twitter:
-[ram_n_74](https://github.com/nramc)
+[ImRamachandranN](https://x.com/ImRamachandranN)
 
 :material-email:
 [ramachandrannellai@gmail.com](mailto:ramachandrannellai@gmail.com)
