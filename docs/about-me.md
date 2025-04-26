@@ -9,71 +9,64 @@ Expertise in **Java, Spring Boot, Angular, CI/CD automation, microservices, and 
 about **developer productivity, automation, and open-source contributions**.
 
 My goal is to **continue evolving as a developer** while embracing **cutting-edge technologies like AI, automation, and
-cloud computing**. By staying up-to-date with the latest advancements, I aim to integrate **AI-driven automation,
+cloud computing**.
+By staying up to date with the latest advancements, I aim to integrate **AI-driven automation,
 security enhancements, and intelligent decision-making** into modern applications.
 
 ## 🧑‍💻 What I Do
 
-✅ **Backend Development** - Developing scalable, secure, and high-performance REST APIs using Java, Spring Boot,
-Hibernate,
-and Microservices.
+- **Backend Development**: Developing scalable, secure, and high-performance REST APIs using Java, Spring Boot,
+  Hibernate, and Microservices.
 
-✅ **Application Architecture & Design** - Designing robust, scalable architectures to solve real-time business problems
-with
-best practices, design patterns, and domain-driven design (DDD).
+- **Application Architecture & Design**: Designing robust, scalable architectures to solve real-time business problems
+  with best practices, design patterns, and domain-driven design (DDD).
 
-✅ **Threat Modeling & Security** - Conducting threat modeling and penetration testing to identify vulnerabilities and
-enhance application security.
+- **Threat Modeling & Security**: Conducting threat modeling and penetration testing to identify vulnerabilities and
+  enhance application security.
 
-✅ **Automation** - Implementing CI/CD pipelines and Integrating tools to improve developer productivity & code quality
-like
-OpenRewrite, Renovate, ensuring efficient and maintainable codebases.
+- **Automation**: Implementing CI/CD pipelines and Integrating tools to improve developer productivity & code quality
+  like OpenRewrite, Renovate, ensuring efficient and maintainable codebases.
 
-✅ **Frontend Development** - Building dynamic, responsive UI applications with Angular, integrating seamlessly with
-backend
-systems.
+- **Frontend Development**: Building dynamic, responsive UI applications with Angular, integrating seamlessly with
+  backend systems.
 
-✅ **Continuous Learning & Innovation** - Staying up to date with emerging technologies, experimenting with new
-frameworks,
-and adopting industry best practices to deliver cutting-edge solutions.
+- **Continuous Learning & Innovation**: Staying up to date with emerging technologies, experimenting with new
+  frameworks, and adopting industry best practices to deliver cutting-edge solutions.
 
 ## 🎯 Highlights
 
-**🏆 Oracle Certified Database Associate (OCA)** - Strong expertise in SQL, database design, and performance tuning.
+- **Oracle Certified Database Associate**: Strong expertise in SQL, database design, and performance tuning.
 
-**📚 Continuous Learner & Tech Enthusiast** - Exploring new technologies, frameworks, and methodologies to stay ahead
-in the evolving tech landscape.
+- **Continuous Learner & Tech Enthusiast**: Exploring new technologies, frameworks, and methodologies to stay ahead
+  in the evolving tech landscape.
 
-**🔍 Problem Solver & Critical Thinker** - Skilled at analyzing complex challenges, architecting efficient solutions, and
-optimizing system performance.
+- **Problem Solver & Critical Thinker**: Skilled at analyzing complex challenges, architecting efficient solutions, and
+  optimizing system performance.
 
-**💡 Open Source Contributor & Enthusiast** - Passionate about contributing to open-source projects, improving developer
-tooling, and adopting modern best practices.
+- **Open Source Contributor & Enthusiast**: Passionate about contributing to open-source projects, improving developer
+  tooling, and adopting modern best practices.
 
-**🎯 Passionate About Software Quality & Automation** - Strong advocate of code quality, CI/CD pipelines, DevSecOps, and
-automated testing to enhance development efficiency.
+- **Passionate About Software Quality & Automation**: Strong advocate of code quality, CI/CD pipelines, DevSecOps, and
+  automated testing to enhance development efficiency.
 
-**🤝 Mentor & Community Contributor** - Actively involved in knowledge sharing, technical blogs, mentoring junior
-developers, and tech talks.
+- **Mentor & Community Contributor**: Actively involved in knowledge sharing, technical blogs, mentoring junior
+  developers, and tech talks.
 
 ## 💖 Passions & Interests
 
-🚀 Developer productivity, CICD and Automation
-
-🛡️ Security & Best Practices in Java
-
-🖥️ Serverless Architectures
-
-🧠 Machine Learning & AI in Java
+- Developer productivity, CI/CD and Automation
+- Security & Best Practices in Java
+- Serverless Architectures
+- AI in Java
 
 ## 🌱 Hobby
 
 When I’m not coding, you can find me:
 
-- 🍳 Cooking up some delicious meals
-- 📚 Reading about the latest trends in **AI** & **Tech**
-- ♟️ Playing chess
-- 🎮 Playing Video Games
+- Cooking up some delicious meals
+- Read about the latest trends in **AI** & **Tech**
+- Playing chess
+- Playing Video Games
 
 ## 🌟 My Inspiration
 
@@ -90,7 +83,7 @@ When I’m not coding, you can find me:
     <img src="assets/images/Sachin-Tendulkar.webp" alt="Sachin Tendulkar" width="200" height="200" style="border-radius: 50%;">
     <h3><a href="https://en.wikipedia.org/wiki/Sachin_Tendulkar" target="_blank">Sachin Tendulkar</a></h3>
     <h6>Indian former international cricketer</h6>
-    <p>"People throw stones at you and you convert them into milestones."</p>
+    <p>"People throw stones at you, and you convert them into milestones."</p>
   </div>
 
 </div>

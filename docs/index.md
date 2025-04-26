@@ -19,16 +19,16 @@ Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
 
 <br />
 
-🚀 Let’s build something amazing together! Explore my work and connect with me!
+🚀 Let’s build something amazing together! Explore my work and Let's connect!
 
 :fontawesome-brands-github: [nramc](https://github.com/nramc)  |
 :fontawesome-brands-linkedin: [Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
-:fontawesome-brands-square-x-twitter: [ImRamachandranN](https://github.com/nramc)  |
+:fontawesome-brands-square-x-twitter: [ImRamachandranN](https://x.com/ImRamachandranN)  |
 :fontawesome-solid-envelope-circle-check: [ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)
 
 
 
-## Thirukkural of the Day 🌿
+## Daily Inspiration 🌿
 
 <div id="thirukkural-container">
     <p>Loading...</p>
