@@ -19,7 +19,7 @@ Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
 
 <br />
 
-🚀 Let’s build something amazing together! Explore my work and connect with me!
+🚀 Let’s build something amazing together! Explore my work and Let's connect!
 
 :fontawesome-brands-github: [nramc](https://github.com/nramc)  |
 :fontawesome-brands-linkedin: [Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
