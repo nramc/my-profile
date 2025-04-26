@@ -4,15 +4,13 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(data => {
             document.getElementById("thirukkural-container").innerHTML = `
                 <blockquote>
+                    <h4>${data.meaning['en']}</h4>
                     <p><small>Kural: ${data.number}</small></p>
                     <p>
-                        ${data.kural[0]} <br />
-                        ${data.kural[1]}
+                        <small>${data.kural[0]}</small> <br />
+                        <small>${data.kural[1]}</small>
                     </p>
-                    <em>Meaning:</em>
-                    <p>${data.meaning['ta_mu_va']}</p>
-                    <p>${data.meaning['ta_salamon']}</p>
-                    <p>${data.meaning['en']}</p>
+                    <p><small>Meaning:</small><br/><small>${data.meaning['ta_salamon']}</small></p>
                 </blockquote>
                 <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">Intrested to know more about Thirukural ??</a>
             `;
