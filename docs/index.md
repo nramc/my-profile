@@ -21,6 +21,7 @@ Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
 
 🚀 Let’s build something amazing together! Explore my work and Let's connect!
 
+:material-code-block-tags: [Blog](https://nramc.github.io/my-notes/blog/index.html)  |
 :fontawesome-brands-github: [nramc](https://github.com/nramc)  |
 :fontawesome-brands-linkedin: [Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
 :fontawesome-brands-square-x-twitter: [ImRamachandranN](https://x.com/ImRamachandranN)  |
