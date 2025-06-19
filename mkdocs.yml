@@ -95,6 +95,9 @@ extra:
       link: https://www.linkedin.com/in/ramachandran-nellaiyappan/
     - icon: fontawesome/solid/paper-plane
       link: mailto:ramachandrannellai@gmail.com
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
 
 extra_css:
   - assets/stylesheets/custom.css
