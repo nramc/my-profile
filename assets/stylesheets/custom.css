@@ -14,3 +14,13 @@
 .float-left {
     float: left;
 }
+
+
+@media (min-width: 1024px) {
+    .grid.cards.inline-grid {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 0.25rem;
+        font-size: smaller;
+    }
+}
