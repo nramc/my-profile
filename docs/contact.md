@@ -3,19 +3,17 @@
 Thank you for taking the time to visit my portfolio! If you'd like to get in touch, feel free to reach out to me through
 any of the following channels:
 
-:fontawesome-brands-linkedin:
-[linkedin.com/in/ramachandran-nellaiyappan/](https://www.linkedin.com/in/ramachandran-nellaiyappan)
+<div class="grid cards" markdown>
 
-:fontawesome-brands-github:
-[github.com/nramc](https://github.com/nramc)
+- :material-code-block-tags: __[Blog](https://nramc.github.io/my-notes/blog/index.html)__
+- :fontawesome-brands-github: __[nramc](https://github.com/nramc)__
+- :fontawesome-brands-linkedin: __[Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)__
+- :fontawesome-brands-square-x-twitter: __[ImRamachandranN](https://x.com/ImRamachandranN)__
+- :fontawesome-solid-envelope-circle-check: __[ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)__
+- :fontawesome-solid-location-dot: __Munich, Germany__
 
-:fontawesome-brands-x-twitter:
-[ImRamachandranN](https://x.com/ImRamachandranN)
+</div>
 
-:material-email:
-[ramachandrannellai@gmail.com](mailto:ramachandrannellai@gmail.com)
-
-:fontawesome-solid-location-dot: Munich, Germany
 
 <br />
 
