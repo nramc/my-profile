@@ -21,13 +21,16 @@ Beyond work, I’m a **husband, lifelong learner, and open-source enthusiast**.
 
 🚀 Let’s build something amazing together! Explore my work and Let's connect!
 
-:material-code-block-tags: [Blog](https://nramc.github.io/my-notes/blog/index.html)  |
-:fontawesome-brands-github: [nramc](https://github.com/nramc)  |
-:fontawesome-brands-linkedin: [Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)  |
-:fontawesome-brands-square-x-twitter: [ImRamachandranN](https://x.com/ImRamachandranN)  |
-:fontawesome-solid-envelope-circle-check: [ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)
 
+<div class="grid cards inline-grid" markdown>
 
+- :material-code-block-tags: __[Blog](https://nramc.github.io/my-notes/blog/index.html)__
+- :fontawesome-brands-github: __[nramc](https://github.com/nramc)__
+- :fontawesome-brands-linkedin: __[Ramachandran Nellaiyappan](https://www.linkedin.com/in/ramachandran-nellaiyappan/)__
+- :fontawesome-brands-square-x-twitter: __[ImRamachandranN](https://x.com/ImRamachandranN)__
+- :fontawesome-solid-envelope-circle-check: __[ramachandrannellai@gmail.com](mailto:ramachadrannellai@gmail.com)__
+
+</div>
 
 ## Daily Inspiration 🌿
 
