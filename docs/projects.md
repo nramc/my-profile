@@ -12,7 +12,7 @@
 
 ---
 
-[geojson4j](https://github.com/nramc/geojson4j)
+[geojson4j](https://github.com/nramc/geojson4j) | [Maven Central](https://mvnrepository.com/artifact/io.github.nramc/geojson4j)
 
 <img src="assets/projects/my-notes/my-notes-logo.png" class="float-left" width="100" height="100" alt="GeoJSON4J">
 
