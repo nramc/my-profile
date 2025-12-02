@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     </p>
                     <p><small>Meaning:</small><br/><small>${data.meaning['ta_salamon']}</small></p>
                 </blockquote>
-                <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">Intrested to know more about Thirukural ??</a>
+                <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">Intrested to know more about Thirukkural ??</a>
             `;
         })
         .catch(error => console.error("Error fetching Thirukkural:", error));

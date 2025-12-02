@@ -35,7 +35,7 @@
 
 [Thirukkural API](https://github.com/nramc/thirukkural-api) | [Website](https://tamil-kural-api.vercel.app/)
 
-<img src="assets/projects/thirukkural/thirukkural-logo.webp" class="float-left" width="100" height="100" alt="Thurukkural">
+<img src="assets/projects/thirukkural/thirukkural-api-logo.png" class="float-left" width="25%" height="25%" alt="Thirukkural">
 
 - Connecting ancient Tamil philosophy with today’s digital landscape
 - A collection of 1330 couplets (Kural), offering wisdom on life, ethics, love, and governance
